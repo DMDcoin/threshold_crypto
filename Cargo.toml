@@ -28,7 +28,7 @@ pairing = "0.16.0"
 rand = "0.7.3"
 rand_chacha = "0.2.1"
 serde = { version = "1.0.104", features = ["derive"] }
-thiserror = "1.0.22"
+thiserror = "1.0.20"
 tiny-keccak = { version = "2.0.1", features = ["sha3"] }
 zeroize = "1.1.0"
 
